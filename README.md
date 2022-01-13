@@ -1,5 +1,5 @@
 
-    <html>
+<html>
 
 <head>
 
@@ -8,8 +8,8 @@
 
 <body >
 <button class ="btn btn-primary" >profile</button>
-<button type="button" class="btn btn-secondary"></button>
-<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-secondary">game</button>
+<button type="button" class="btn btn-success">google</button>
 <button type="button" class="btn btn-danger">Danger</button>
 <button type="button" class="btn btn-warning">Warning</button>
 <div><h1 align="center"> doraemon </h1>
