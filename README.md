@@ -1,39 +1,45 @@
-#Manjusha18/manjusha18.github.io
+<html>
 
-## Welcome to GitHub Pages
+<head>
+       
 
-You can use the [editor on GitHub](https://github.com/Manjusha18/manjusha18.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</head>
 
-```markdown
-Syntax highlighted code block
+<body >
+<button class ="btn btn-primary" >primary </button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<div><h1 align="center"> doraemon </h1>
+<h1> doraemon gagets wow</h1>
+<h2> doraemon website </h2>
+</div>
+<p>Hai iam manjusha , iam from AI&DS ...</p> I want to discuss about doraemon through html <hr>
+       [doɾaemoɴ]) is a Japanese manga series written and illustrated bodhr Fujiko F. Fujio. The manga was first serialized in December 1969, with its 1,345 individual chapters compiled into 45 tankōbon volumes, published by <i>Shogakukan</i> from 1970 to 1996. The story revolves around an earless robotic cat named Doraemon, who travels back in time from the 22nd century to aid a boy named Nobita Nobi.<p>The manga spawned a media franchise. Three anime TV series have been adapted in 1973, 1979, and 2005. Additionally, <sub>Shin-Ei Animation</sub> has produced over forty animated films, including two 3D computer animated films,<br> all of which are distributed by Toho. Various types of merchandise and media have been developed, including soundtrack albums, video games, and musicals. The manga series was licensed for an English language release in <b> North America, via Amazon Kindle</b> ,by a collaboration of Fujiko F. Fujio Pro with Voyager Japan and AltJapan Co., Ltd. The anime series was licensed by Disney for an English-language release in North America in 2014, and <u>LUK International in Europe, the Middle East and Africa</u>.</p>
+       <h2 align ="center">doraemon biograpy complited</h2>
+       <spam align ="center" >doraemon biograpy complited</spam>
+<p>for more information about doraemon please <a href="https://dbpedia.org/page/Doraemon" >click hear</a>
+<br> in my folder <a href="1st prgm.html">click</a></p>
+<img src="https://lumiere-a.akamaihd.net/v1/images/open-uri20150608-27674-qkvy28_b0d936ca.jpeg?region=0%2C0%2C800%2C600">
+<ul>
+<li> jhgth </li>
+<li> jhfgg</li> 
 
-# Header 1
-## Header 2
-### Header 3
+<table border="2px"
+<tr>
+	<td>fjgj</td>
+</tr>
+<tr>
+	<td>hjigg</tr>
+</tr>
+</table>
 
-- Bulleted
-- List
+</ul>
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Manjusha18/manjusha18.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
