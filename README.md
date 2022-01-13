@@ -7,7 +7,7 @@
 </head>
 
 <body >
-<button class ="btn btn-primary" >profile</button>
+<button class ="btn btn-primary" ><a href="https://www.google.com/" target="_blank">Google Search</a>profile</button>
 <button type="button" class="btn btn-secondary">game</button>
 <button type="button" class="btn btn-success">google</button>
 <button type="button" class="btn btn-danger">Danger</button>
