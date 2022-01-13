@@ -2,6 +2,7 @@
 <html>
 
 <head>
+<link rel="stylesheet" type="text/css" href="mystylecss.css">
 
     <h1><p>this is doraemon profile in this profile i insert the game and different websites</p></h1>
 </head>
