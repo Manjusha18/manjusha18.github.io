@@ -2,9 +2,9 @@
 <html>
 
 <head>
-<link rel="stylesheet" type="text/css" href="mystylecss.css">
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 
-    <h1><p>this is doraemon profile in this profile i insert the game and different websites</p></h1>
+    <h1><p>This is doraemon webpage . In this webpage i insert the game and different websites</p></h1>
 </head>
 
 <body >
