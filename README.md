@@ -9,7 +9,7 @@
 <body >
 <button class ="btn btn-primary" ><a href="https://www.google.com/" target="_blank">Google Search</a></button>
 <button type="button" class="btn btn-game">game</button>
-<button type="button" class="btn btn-profile"><a href=  https://glitch.com/edit/#!/flaxen-nickel-school?path=index.html%3A11%3A9>my profile in glitch </a></button>
+<button type="button" class="btn btn-profile"><a href=  "https://glitch.com/edit/#!/flaxen-nickel-school?path=index.html%3A11%3A9">my profile in glitch </a></button>
 <button type="button" class="btn btn-doraemon images"><a href="https://wallpapercave.com/doraemon-hd-wallpapers">doraemon images</a></button>
 <button type="button" class="btn btn-warning">Warning</button>
 <div><h1 align="center"> doraemon </h1>
