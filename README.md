@@ -39,6 +39,13 @@
 </table>
 
 </ul>
+
+<p> <b> <h2>Development</h2> </b>
+Doraemon is written and illustrated by Fujiko F. Fujio, the pen name of Japanese manga artist Hiroshi Fujimoto.[7][8][9] According to Fujio, it was originally conceived following a series of three events: when searching for ideas for a new manga, he wished a machine existed that would come up with ideas for him, he tripped over his daughter's toy, and heard cats fighting in his neighborhood.[3] To set up the plot and characters, he inspired some elements from his earlier manga series, Obake no Q-Tarō, which involve an obake living with humans, with a similar formula.[10] Fujio said that the idea for Doraemon came after "an accumulation of trial and error, during which I finally found the pattern or style of manga to which I was most suited".[11] Initially, the series achieved little success as gekiga was well-known at the time, and only became a hit after its adaptation into an anime TV series and multiple feature films.[10]
+
+Doraemon is mainly aimed at children, so Fujio chose to create the character with a simple graphic style, based on shapes such as circles and ellipses.[12] In addition, blue, a characteristic color of Doraemon, was chosen as the main color in magazine publications, which used to have a yellow cover and red title.[13] Set in Tokyo, the manga reflects parts of Japan's society, such as the class system and the "ideal" of Japanese childhood.[5][14] Problems, if occur, are resolved in a way so as not to rely on violence and eroticism,[15] and the stories were also integrated with the concept of environmentalism.[16] During Doraemon's development, Fujio did not express a change in characters; he said, "When a manga hero become a success, the manga suddenly stops being interesting. So the hero has to be like the stripes on a barber pole; he seems to keep moving upward, but actually he stays in the same place."[17]
+
+According to Zensho Ito, Fujio's former student, the "length" of time in the universe is one of the ideas that inspired Fujio to make Doraemon.[18] Frequently occur in its stories is Nobita's desire to control time, and there exist time-control gadgets that he uses to satisfy that desire, particularly the "Time Machine", which lies in his desk drawer.[19] Unlike Western works on science fiction, the manga did not explain the theory nor the applied technology behind these tools, but instead focusing on how the characters exploit their advantages, making it more children-friendly.[20]</p>
 </body>
 
 </html>
