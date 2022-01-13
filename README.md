@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<link rel="stylesheet" type="text/css" href="mystyle.css">
+<link rel="stylesheet" type="text/css" href="mystylecss.css">
 
     <h1><p>This is doraemon webpage . In this webpage i insert the game and different websites</p></h1>
 </head>
